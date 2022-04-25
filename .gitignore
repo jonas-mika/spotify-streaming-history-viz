@@ -2,6 +2,9 @@
 credentials.json
 .cache*
 
+.DS_Store
+.~streaming-history-viz__52836.twbr
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
